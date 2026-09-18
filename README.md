@@ -1,100 +1,139 @@
+# Hey, I'm Rathish 👋
+
+### Cloud & DevOps Engineer | Python Developer | MSc Computing @ TU Dublin
+
+I'm a developer based in Dublin, Ireland, focused on **Cloud Engineering, DevOps and backend development**.
+
+Currently pursuing an **MSc in Computing (Sustainable Cloud) at Technological University Dublin**, while building and deploying applications using AWS, Python and Linux.
+
+I enjoy working at the intersection of **software development, cloud infrastructure and automation** — taking applications from code to deployment.
+
+---
+
+## ⚡ What I Work With
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+
+`EC2` · `S3` · `IAM` · `CloudFront` · `Cloud Deployment` · `CI/CD` · `Server Administration`
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+**Development & Automation**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+
+`Selenium` · `Pandas` · `NumPy` · `Matplotlib` · `spaCy`
+
+---
+
+## 💻 Engineering Experience
+
+### Cloud & DevOps Graduate — Hackgenix Tech
+
+Worked with cloud infrastructure and application deployment in a development environment.
+
+* Deployed and configured AWS EC2 instances
+* Worked with CI/CD deployment workflows
+* Administered Linux servers
+* Performed infrastructure monitoring
+* Troubleshot cloud deployment issues
+* Collaborated with development teams on application delivery
+
+### Python Developer & Research Assistant — TACTII
+
+Worked remotely on Python-based technical research and backend development.
+
+* Developed backend functionality using Python & Flask
+* Automated testing and data collection with Selenium
+* Deployed backend components on AWS EC2
+* Managed application data using AWS S3
+
+---
+
+## 🚀 Projects
+
+### 🥽 VR Interview Simulator
+
+**Unity · Meta Quest**
+
+Virtual reality interview simulation designed to provide an interactive environment for interview practice and digital learning.
+
+### 🧠 Meiphor AR Platform
+
+**Unity · Vuforia**
+
+AR-based educational platform combining augmented reality with interactive learning experiences.
+
+### 🦯 Blind Safety IoT Device
+
+**Arduino · Ultrasonic Sensors**
+
+Assistive IoT prototype that detects nearby obstacles using ultrasonic sensing.
+
+### 🏥 Health-Connect
+
+**Flutter**
+
+Medicine-access application concept designed to connect users with healthcare-related services.
+
+---
+
+## 🎓 Currently
+
+📍 Dublin, Ireland
+
+🎓 MSc Computing — **Sustainable Cloud**
+Technological University Dublin
+
+☁️ Exploring deeper into **Cloud Infrastructure, DevOps and Cloud-Native Engineering**
+
+🎯 Interested in **Graduate Cloud Engineer, DevOps Engineer, Cloud Support and Backend Developer** opportunities.
+
+---
+
+## 📊 GitHub
+
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJtbmlhOHFub210anM5Mnp5ZWwzNmo3MnVwZzhtZ3hyOGxkZWF4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vLlFWjPL373TW7A5zZ/giphy.gif"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rathishraja&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathishraja&layout=compact&hide_border=true&theme=transparent" height="165"/>
+
 </div>
 
-###
+---
 
-<h2 align="left">Hi 👋! My name is Rathish Priyadharshan and I'm a Developer, from Chennai.</h2>
-
-###
+## 🐍 Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rathishraja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rathishraja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://raw.githubusercontent.com/Rathishraja/Rathishraja/output/snake.svg" alt="GitHub contribution snake"/>
+
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" alt="inkscape logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-</div>
+## 🤝 Connect
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rathish_Priyadharshan-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rathish-priyadharshan-739681249/)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/rxth.ish/profilecard/?igsh=MTJvb2NranJjdWo5Zw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="Rathish1703@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rathish-priyadharshan-739681249/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-</div>
+[![Gmail](https://img.shields.io/badge/Email-rathish1703%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rathish1703@gmail.com)
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rathishraja/Rathishraja/output/snake.svg" alt="Snake animation" />
-
-###
+---
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=@rathishpriyadharshan" alt="Layout with last medium posts"  />
-</div>
 
-###
+### Building. Deploying. Learning. ☁️
+
+</div>
